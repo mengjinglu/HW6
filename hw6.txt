@@ -1,0 +1,17 @@
+OOP hw6 answers 
+
+a.“Woof, woof, woof!” 
+The method call( ) in Dog that contains int parameter gets called. 
+b.“I’m a cat, go away!”
+ Overriding.
+c.Error: cannnot find the symbol, object does not have call method.
+d.pet.Pet@677327b
+because toString is not overridden.
+e.“woof!”  
+Overriding.
+f.“Come here, kitty?… Don’t waste my time.”  
+Overloading.
+g.Error: No suitable function found in class Cat.
+h.“four” 
+inheritance.
+i.Pet does not have a method call( ) that contains same signature—int as Dog.
